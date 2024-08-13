@@ -1,9 +1,8 @@
-## Hi there 👋
+### sejam bem vindos ✨ 
 
-<!--
-**Brenndamichelle/Brenndamichelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Brennda Vicente
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
